@@ -111,14 +111,17 @@ The dataset contains information about:
 
 ## Repository Structure
 
-```
+## Repository Structure
+
+```text
 cognifyz-restaurant-data-analysis/
 │
-├── Dataset.csv
+├── dataset/
+│   └── Dataset.csv
 ├── Restaurant_Data_Analysis_Cognifyz.ipynb
-├── screenshots/
+├── Restaurant_Data_Analysis_Cognifyz.pdf
 ├── README.md
-└── requirements.txt
+└── LICENSE
 ```
 
 ---
@@ -133,4 +136,4 @@ GitHub:
 https://github.com/Syed-SS
 
 LinkedIn:
-https://www.linkedin.com/in/syedshahed78650
+https://www.linkedin.com/in/syedshahed-ai
